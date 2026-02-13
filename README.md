@@ -5,7 +5,9 @@
 
 ##### An interactive data exploration of Chicago crime patterns across time, location, and offense type to drive proactive public safety decisions.
 
+# Live Presentation
 
+https://www.youtube.com/watch?v=PAkQRzBuPno&t=2s
 
 ##### Team Members
 
