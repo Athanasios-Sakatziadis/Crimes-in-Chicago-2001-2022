@@ -72,8 +72,6 @@
 # Streamlit
 ![Arrest_Rate_by_Crime_Type](https://github.com/user-attachments/assets/25a35680-ae32-4cff-b283-c6ad52b07ac0)
 
-![chicago_skyline](https://github.com/user-attachments/assets/3363c301-7d17-4db4-9459-8f99ff908028)
-
 ![Crime_Trends_Over_Time](https://github.com/user-attachments/assets/791c1d33-5667-4ee5-b97e-a49d9acb6f8e)
 
 ![Map_Arrest_pins](https://github.com/user-attachments/assets/30173f50-bcce-4ff3-ba08-69b6cea8ec2a)
