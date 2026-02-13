@@ -1,4 +1,5 @@
-#### Crimes in Chicago
+# Crimes in Chicago
+![chicago_skyline](https://github.com/user-attachments/assets/0194cedb-5b8a-4209-9618-c0a1924f266d)
 
 
 
@@ -64,8 +65,24 @@
 * ##### Readme file
 
 ##### 
+# PowerBi
+<img width="2376" height="1084" alt="Crimes-in-Chicago-1" src="https://github.com/user-attachments/assets/17ac1e9e-578c-4778-91ec-632ea2453629" />
+<img width="2395" height="1084" alt="Crimes-in-Chicago-2" src="https://github.com/user-attachments/assets/566de566-0e87-4e2f-9112-3468522b94ca" />
 
+# Streamlit
+![Arrest_Rate_by_Crime_Type](https://github.com/user-attachments/assets/25a35680-ae32-4cff-b283-c6ad52b07ac0)
 
+![chicago_skyline](https://github.com/user-attachments/assets/3363c301-7d17-4db4-9459-8f99ff908028)
+
+![Crime_Trends_Over_Time](https://github.com/user-attachments/assets/791c1d33-5667-4ee5-b97e-a49d9acb6f8e)
+
+![Map_Arrest_pins](https://github.com/user-attachments/assets/30173f50-bcce-4ff3-ba08-69b6cea8ec2a)
+
+![Map_Zoomed_out](https://github.com/user-attachments/assets/244e667b-7fb8-4bc8-a1aa-dada70134838)
+
+![Overview](https://github.com/user-attachments/assets/b8de5814-e97c-4d11-9303-f61024c53701)
+
+![Time_Crimes_per_hour](https://github.com/user-attachments/assets/7a491f52-ac49-479b-8668-0d84e603c249)
 
 ##### 
 
